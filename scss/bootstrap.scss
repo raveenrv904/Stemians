@@ -1,0 +1,33 @@
+/******* Customized Bootstrap ********/
+
+$primary: #06bbcc;
+$light: #f0fbfc;
+$dark: #181d38;
+
+:root {
+  --primary: #8e44ad; /* Dark Purple */
+  --light: #f5e1f7; /* Light Purple */
+  --dark: #2c3e50; /* Dark Blueish Gray */
+}
+
+$font-family-base: "Heebo", sans-serif;
+
+$headings-font-family: "Nunito", sans-serif;
+
+$body-color: #52565b;
+
+$headings-color: $dark;
+
+$headings-font-weight: 700;
+
+$display-font-weight: 800;
+
+$enable-responsive-font-sizes: true;
+
+$border-radius: 0px;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
