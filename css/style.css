@@ -24,6 +24,13 @@
   z-index: 99;
 }
 
+.deded {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+
 /*** Spinner ***/
 #spinner {
   opacity: 0;
