@@ -12,17 +12,16 @@ footer.innerHTML = `
             <h4 class="text-white mb-3">Contact</h4>
             
             <p class="mb-2">
-              <i class="fa fa-phone-alt me-3"></i>+91 9791752998 
+              <i class="fa fa-phone-alt me-3"></i>+91 9791752998 , +91 7305766533
             </p>
             <p class="mb-2">
               <i class="fa fa-envelope me-3"></i>stemians.airobohub@gmail.com
-            </p>
-            <div class="deded d-flex pt-2">
-              
-              <a class="btn btn-outline-light btn-social" href="https://www.youtube.com/@stemiansairobohub" target="_blank"
-                ><i class="fab fa-youtube"></i
-              > </a> STEMIANSAITOHUB
-            </div>
+            </p><p class="mb-2">
+            <a class="ewewew"  href="https://www.youtube.com/@stemiansairobohub" target="_blank"
+                ><i class="fab fa-youtube me-2"></i
+              > Stemiansaitohub</a> 
+          </p>
+            
           </div>
 
           <div class="col-lg-3 col-md-6">
