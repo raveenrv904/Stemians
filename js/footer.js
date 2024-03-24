@@ -19,7 +19,7 @@ footer.innerHTML = `
             </p><p class="mb-2">
             <a class="ewewew"  href="https://www.youtube.com/@stemiansairobohub" target="_blank"
                 ><i class="fab fa-youtube me-2"></i
-              > Stemiansaitohub</a> 
+              > STEMIANS AI ROBOHUB</a> 
           </p>
             
           </div>
