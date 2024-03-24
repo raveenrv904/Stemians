@@ -12,7 +12,7 @@ footer.innerHTML = `
             <h4 class="text-white mb-3">Contact</h4>
             
             <p class="mb-2">
-              <i class="fa fa-phone-alt me-3"></i>+91 9791752998 , +91 7305766533
+              <i class="fa fa-phone-alt me-3"></i>+91 9791751998 , +91 7305766533
             </p>
             <p class="mb-2">
               <i class="fa fa-envelope me-3"></i>stemians.airobohub@gmail.com
