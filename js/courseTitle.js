@@ -55,7 +55,7 @@ const courseTitleHtml = `
                 class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
                 style="margin: 1px"
               >
-                <h5 class="m-0">Bootcamps & Workshops</h5>
+                <h5 class="m-0">Events</h5>
                 <small class="text-primary">Courses</small>
               </div>
             </a>
