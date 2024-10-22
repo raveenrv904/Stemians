@@ -6,6 +6,9 @@ footer.innerHTML = `
           <div class="col-lg-3 col-md-6">
             <h4 class="text-white mb-3">Quick Link</h4>
             <a class="btn btn-link" href="about.html">About Us</a>
+            <a class="btn btn-link" href="courses.html">Courses</a>
+            <a class="btn btn-link" href="internship.html">Internhsip</a>
+            <a class="btn btn-link" href="gallery.html">Gallery</a>
             <a class="btn btn-link" href="contact.html">Contact Us</a>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -88,6 +91,6 @@ footer.innerHTML = `
               </div>
             </div>
           </div>
-        </div>
+        </div>x
       </div>
 `;
