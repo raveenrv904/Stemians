@@ -91,6 +91,6 @@ footer.innerHTML = `
               </div>
             </div>
           </div>
-        </div>x
+        </div>
       </div>
 `;
