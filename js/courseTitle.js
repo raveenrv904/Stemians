@@ -10,7 +10,7 @@ const courseTitleHtml = `
             <a class="position-relative d-block h-100 overflow-hidden" href="courses.html">
               <img
                 class="img-fluid position-absolute w-100 h-100"
-                src="./img/new/bootcamp.jpeg"
+                src="./img/new/bootcamp 1.jpg"
                 alt="workshop"
                 style="object-fit: cover"
               />
@@ -30,7 +30,7 @@ const courseTitleHtml = `
             <a class="position-relative d-block h-100 overflow-hidden" href="courses.html">
               <img
         class="img-fluid"
-        src="./assets/Temp/main 4.jpeg"
+        src="./img/new/robotics.jpg"
         alt="robotics"      />
               <div
                 class="bg-white text-center position-absolute bottom-0 end-0 py-2 px-3"
@@ -48,7 +48,7 @@ const courseTitleHtml = `
             <a class="position-relative d-block h-100 overflow-hidden" href="courses.html">
               <img
         class="img-fluid"
-        src="./img/new/events.jpeg"
+        src="./img/new/event.jpg"
          alt="events"
        />
               <div

@@ -7,7 +7,7 @@ footer.innerHTML = `
             <h4 class="text-white mb-3">Quick Link</h4>
             <a class="btn btn-link" href="about.html">About Us</a>
             <a class="btn btn-link" href="courses.html">Courses</a>
-            <a class="btn btn-link" href="internship.html">Internhsip</a>
+            <a class="btn btn-link" href="internship.html">Internship</a>
             <a class="btn btn-link" href="gallery.html">Gallery</a>
             <a class="btn btn-link" href="contact.html">Contact Us</a>
           </div>
